@@ -5,9 +5,33 @@
 <img align="left" width="400" height="400" src="https://user-images.githubusercontent.com/74868970/112367295-bf5ca100-8cff-11eb-9e2a-c6ebcbeb4f92.png">&nbsp;
 <img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/74868970/112367300-c1266480-8cff-11eb-975f-1878847b0318.png">&nbsp;
 
-<br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # The above is the View when opened the App.
-<br/>
+
 # The Mian View of App open's after a SplashScreen of 2 seconds. 
-<br/>
+
 # The further Update that I'm working on,is to reduce App Booting Time.
