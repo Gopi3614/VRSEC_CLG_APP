@@ -1,5 +1,3 @@
-# VRSEC_College_App
-
 <img align="left" width="200" height="200" src="https://user-images.githubusercontent.com/74868970/112364272-5889b880-8cfc-11eb-9e93-99a7190f4bcf.jpg">
 <img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/74868970/112367308-c2579180-8cff-11eb-95e5-bc8995e1fe8d.png">
 <br/>
@@ -9,9 +7,3 @@
 <img align="left" width="200" height="200" src="https://user-images.githubusercontent.com/74868970/112367295-bf5ca100-8cff-11eb-9e2a-c6ebcbeb4f92.png">
 <img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/74868970/112367300-c1266480-8cff-11eb-975f-1878847b0318.png">
 <br/>
-
-## The above the Screenshots of App view when Opened.
-
-## Added Home,LMS,CMS,E_Library,Moodle websites to the App to view in Webview
-
-# The StartActivityOnBootReceiver.java file is to Boot the App Faster by reducing the runtime
