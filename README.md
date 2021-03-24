@@ -2,14 +2,10 @@
 # VRSEC_College_App
 # The StartActivityOnBootReceiver.java file is to Boot the App Faster by reducing the runtime
 
-![Screenshot_20210325_001100](https://user-images.githubusercontent.com/74868970/112367308-c2579180-8cff-11eb-95e5-bc8995e1fe8d.png)
-![Screenshot_20210325_001024](https://user-images.githubusercontent.com/74868970/112367317-c4215500-8cff-11eb-97df-8e9b5617b136.png)
-![Screenshot_20210325_001221](https://user-images.githubusercontent.com/74868970/112367331-c5eb1880-8cff-11eb-9bc7-8e39161d1211.png)
-
-![Screenshot_20210325_001203](https://user-images.githubusercontent.com/74868970/112367295-bf5ca100-8cff-11eb-9e2a-c6ebcbeb4f92.png)
-![Screenshot_20210325_001145](https://user-images.githubusercontent.com/74868970/112367300-c1266480-8cff-11eb-975f-1878847b0318.png)
+![Screenshot_20210325_001100](https://user-images.githubusercontent.com/74868970/112367308-c2579180-8cff-11eb-95e5-bc8995e1fe8d.png)  ![Screenshot_20210325_001024](https://user-images.githubusercontent.com/74868970/112367317-c4215500-8cff-11eb-97df-8e9b5617b136.png)
+![Screenshot_20210325_001221](https://user-images.githubusercontent.com/74868970/112367331-c5eb1880-8cff-11eb-9bc7-8e39161d1211.png)  ![Screenshot_20210325_001203](https://user-images.githubusercontent.com/74868970/112367295-bf5ca100-8cff-11eb-9e2a-c6ebcbeb4f92.png)  ![Screenshot_20210325_001145](https://user-images.githubusercontent.com/74868970/112367300-c1266480-8cff-11eb-975f-1878847b0318.png)
 
 ## The above the Screenshots of App view when Opened.
 
-Added Home,LMS,CMS,E_Library,Moodle websites to the App to view in Webview
+## Added Home,LMS,CMS,E_Library,Moodle websites to the App to view in Webview
 
