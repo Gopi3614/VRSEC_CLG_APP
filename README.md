@@ -11,4 +11,4 @@
 
 # The Mian View of App open's after a SplashScreen of 2 seconds. 
 
-#                                                      The further Update that I'm working on,is to reduce App Booting Time.
+#                                                                                                                 The further Update that I'm working on,is to reduce App Booting Time.
